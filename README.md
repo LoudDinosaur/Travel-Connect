@@ -19,7 +19,7 @@ Usage
 2.	Choose options to book cabs or hotels as needed.
 3.	Enter required details to complete the bookings.
 4.	Booking information will be saved for future reference.
-Contributing
+
 
 Contributions are welcome! Please fork the repository and submit a pull request for any improvements or bug fixes.
 
