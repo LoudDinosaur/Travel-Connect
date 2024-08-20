@@ -1,7 +1,7 @@
 # Travel-Connect
 
 TravelConnect is a C++ based travel management system designed to streamline cab and hotel bookings. 
-This project leverages Object-Oriented Programming (OOP) principles and file handling to deliver a robust and efficient system for managing travel-related services.
+This project leverages Object-Oriented Programming (OOPs) principles and file handling to deliver a robust and efficient system for managing travel-related services.
 
 Features
 •	Cab Booking: Easily book cabs for your travel needs.
